@@ -60,11 +60,10 @@ Status:
 - Billederne til trænning af neural network er hentet ned 
 - Der er blevet lavet en modifier så billederne kan skaleres ned
 - I mangel på billeder er der en "random billedgenerator"
--/% Maksinen er blevet konstrueret men der er en path som driller et eller andet sted så man ikke kan kører maskinen igennem nye billeder
-
-% Mangler at hente opskrifter
-% Mangler at webscrabe diverse handlemuligheder 
-% Mangler at sammenligne priser
+- Maksinen er blevet konstrueret men der er en path som driller et eller andet sted så man ikke kan kører maskinen igennem nye billeder
+- Mangler at hente opskrifter
+- Mangler at webscrabe diverse handlemuligheder 
+- Mangler at sammenligne priser
 
 Der har været meget bøvl med stierne i projektet og det tilhørende tensorflow API, som hele tiden skulle rettes frem og tilbage. 
 Har lavet et workaround men før tog det meget tid, og der er stadigvæk fejl i projektet som kan skyldes måske workarounded. 
