@@ -53,7 +53,7 @@ zipp==3.8.0
 Der er brugt anaconda til at få projektet til at køre lokalt.
 Hertil projektet er der også brugt Tensorflow model API: https://github.com/tensorflow/models
 
-Man kan hente projektet ned og køre de enkelte celler i detection.pynb - dog mangler trænning og tests billederne (da de ikke må lægges op af mig) og andre filer - 
+Man kan hente projektet ned i jupytor notebook inde i https://github.com/Hartmannsolution/docker_notebooks projeket og køre de enkelte celler i detection.pynb - dog mangler trænning og tests billederne (da de ikke må lægges op af mig) og andre filer - 
 fordi de er for store til github. Har dog prøvet at lave en alternativ løsning i til de større filer i detection.pynb, men man mangler stadigvæk billederne.
 
 Status:
